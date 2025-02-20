@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=moye&theme=responsive" />
   </a>
      <a href="https://github.com/yeonn-k/internship_admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=internship-admin&theme=responsive" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=internship_admin&theme=responsive" />
   </a>
 </div>
 <br />
