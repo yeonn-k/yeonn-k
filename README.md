@@ -30,9 +30,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=oreore&theme=responsive" />
   </a>
     <a href="https://github.com/yeonn-k/moye">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=oreore&theme=responsive" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=moye&theme=responsive" />
   </a>
-     <a href="https://[github.com/yeonn-k/moye](https://github.com/yeonn-k/internship_admin
+     <a href="https://[github.com/yeonn-k/internship_admin](https://github.com/yeonn-k/internship_admin
 )">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=oreore&theme=responsive" />
   </a>
