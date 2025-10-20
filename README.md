@@ -5,7 +5,7 @@
 />
 
 
-<h1 align="center">Welcome to my github profile 👋</h2>
+<h1 align="center">Welcome to my github profile 👋</h1>
 <br />
 
 <h2>contact & protfolio</h2>
@@ -24,16 +24,16 @@
 <h2>pinned projects</h2>
 <div align="center">
   <a href="https://github.com/yeonn-k/campingping">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=campingping&theme=responsive" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=campingping&theme=transparent" />
   </a>
   <a href="https://github.com/yeonn-k/oreore">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=oreore&theme=responsive" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=oreore&theme=transparent" />
   </a>
     <a href="https://github.com/yeonn-k/moye">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=moye&theme=responsive" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=moye&theme=transparent" />
   </a>
      <a href="https://github.com/yeonn-k/internship_admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=internship_admin&theme=responsive" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yeonn-k&repo=internship_admin&theme=transparent" />
   </a>
 </div>
 <br />
@@ -44,13 +44,13 @@
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonn-k&layout=compact&theme=responsive"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonn-k&layout=compact&theme=transparent"
           alt="Top Langs"
         />
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=yeonn-k&show_icons=true&theme=responsive" 
+          src="https://github-readme-stats.vercel.app/api?username=yeonn-k&show_icons=true&theme=transparent" 
           alt="yeonn-k's GitHub stats"
         />
       </td>
